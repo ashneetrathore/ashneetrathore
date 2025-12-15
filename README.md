@@ -6,6 +6,8 @@ Here on my GitHub, you'll find a mix of projects from courses and hackathons - f
 
 I'm currently working on an updated version of a mobile sleeptracking app, and publishing several other finished projects. Stay tuned!
 
+For an organized view of my projects by category, check out the [Stars](https://github.com/ashneetrathore?tab=stars) tab on my profile.
+
 **Let's connect!**
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/ashneetrathore)
