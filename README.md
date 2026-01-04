@@ -2,7 +2,7 @@
 
 I'm Ashneet, a recent UC Irvine graduate with a degree in computer science and a specialization in information. 
 
-Here on my GitHub, you'll find a mix of projects - full-stack web apps, search engine technologies, puzzle-solving algorithms, and more - all with detailed READMEs and many with demos. For an organized view of my projects by category, check out the [Stars](https://github.com/ashneetrathore?tab=stars) tab on my profile.
+Here on my GitHub, you'll find a mix of projects - full-stack web apps, search engine technologies, systems programming software, puzzle-solving algorithms, and more - all with detailed READMEs and many with demos. For an organized view of my projects by category, check out the [Stars](https://github.com/ashneetrathore?tab=stars) tab on my profile.
 
 I'm currently working on an updated version of a mobile sleeptracking app, and publishing several other finished projects. Stay tuned!
 
