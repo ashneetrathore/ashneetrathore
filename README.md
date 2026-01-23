@@ -6,7 +6,7 @@ Here on my GitHub, you'll find a mix of projects - full-stack web apps, search e
 
 For an organized view of my projects by category, explore my collections: [Full-Stack](https://github.com/stars/ashneetrathore/lists/full-stack), [Search Tech](https://github.com/stars/ashneetrathore/lists/search-tech), [ML and AI](https://github.com/stars/ashneetrathore/lists/ml-and-ai), [Puzzle Solvers](https://github.com/stars/ashneetrathore/lists/puzzle-solvers), [Systems Programming Software](https://github.com/stars/ashneetrathore/lists/systems-programming-software).
 
-I'm currently working on an updated version of a mobile sleeptracking app, and publishing several other finished projects. Stay tuned!
+I'm currently working on an updated version of a [mobile sleeptracking app](https://github.com/ashneetrathore/SleepTracker), and publishing several other finished projects. Stay tuned!
 
 **Let's connect!**
 
