@@ -12,7 +12,7 @@ For an organized view of my projects by category, explore my collections:
 [![Puzzle Solvers](https://img.shields.io/badge/Puzzle%20Solvers-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/ashneetrathore/lists/puzzle-solvers)
 [![Systems Programming](https://img.shields.io/badge/Systems%20Programming-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/ashneetrathore/lists/systems-programming-software)
 
-I'm currently working on an updated version of a [mobile sleeptracking app](https://github.com/ashneetrathore/SleepTracker), and publishing several other finished projects. Stay tuned!
+I'm currently working on an updated version of a [mobile sleeptracking app](https://github.com/ashneetrathore/sleep-tracker), and publishing several other finished projects. Stay tuned!
 
 **Let's connect!**
 
