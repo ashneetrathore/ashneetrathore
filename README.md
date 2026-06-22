@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%E2%9C%A6+%E2%8C%98+Hello%2C+world!+%E2%8C%98+%E2%9C%A6">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=%E2%9C%A6+%E2%8C%98+Hello%2C+world!+%E2%8C%98+%E2%9C%A6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%E2%9C%A6+%E2%8C%98+Hello%2C+world!+I'm+Ashneet.+%E2%8C%98+%E2%9C%A6">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=%E2%9C%A6+%E2%8C%98+Hello%2C+world!+I'm+Ashneet.+%E2%8C%98+%E2%9C%A6">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=%E2%9C%A6+%E2%8C%98+Hello%2C+world!+%E2%8C%98+%E2%9C%A6" alt="Typing SVG" />
   </picture>
 </div>
@@ -14,21 +14,24 @@
 
 </div>
 
-✩ &nbsp;Hi, I'm Ashneet\
-✩ &nbsp;Computer science graduate from UC Irvine, with honors\
+✩ &nbsp;Computer science grad from UC Irvine, with Latin honors\
 ✩ &nbsp;SWE intern @ Kaiser Permanente\
 ✩ &nbsp;Puzzler who loves reading detective novels, buying stationary, and creating art
+
+Let's connect!
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-f2c4ce.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/ashneetrathore)
 
 ---
 
 <div align="center">
 
-### ♡ ‧ ₊˚ ⊹ about my page ⊹ ˚₊ ‧ ♡
+### ♡ ‧ ₊˚ ⊹ explore my collections ⊹ ˚₊ ‧ ♡
 
 </div>
 
-✩ My page has a mix of projects, all with detailed README.md files and many with demos\
-✩ For an organized view of my projects by category, browse my collections:
+✩ A mix of projects across categories, each with a detailed README and many with demos\
+✩ Pick a collection to browse ↓
 
 [![Full-Stack](https://img.shields.io/badge/Full--Stack-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/full-stack)
 [![Search Tech](https://img.shields.io/badge/Search%20Tech-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/search-tech)
