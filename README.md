@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### ♡ ‧ ₊˚ ⊹ explore my collections ⊹ ˚₊ ‧ ♡
+### ♡ ‧ ₊˚ ⊹ about my page ⊹ ˚₊ ‧ ♡
 
 </div>
 
