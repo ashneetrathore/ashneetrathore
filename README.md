@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%E2%9C%A6+%E2%8C%98+Hello%2C+world!+I'm+Ashneet.+%E2%8C%98+%E2%9C%A6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&height=30&lines=%E2%9C%A6+%E2%8C%98+Hello%2C+world!+I'm+Ashneet.+%E2%8C%98+%E2%9C%A6">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=%E2%9C%A6+%E2%8C%98+Hello%2C+world!+I'm+Ashneet.+%E2%8C%98+%E2%9C%A6">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=%E2%9C%A6+%E2%8C%98+Hello%2C+world!+%E2%8C%98+%E2%9C%A6" alt="Typing SVG" />
   </picture>
