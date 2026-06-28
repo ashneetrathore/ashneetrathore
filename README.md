@@ -26,7 +26,7 @@ Let's connect!
 
 <div align="center">
 
-### ♡ ‧ ₊˚ ⊹ explore my collections ⊹ ˚₊ ‧ ♡
+### ♡ ₊˚ ⊹ explore my collections ⊹ ˚₊ ♡
 
 </div>
 
