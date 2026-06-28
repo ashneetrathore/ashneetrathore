@@ -33,8 +33,7 @@ Let's connect!
 ✩ A mix of projects across categories, each with a detailed README and many with demos\
 ✩ Pick a collection to browse ↓
 
-[![Full-Stack](https://img.shields.io/badge/Full--Stack-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/full-stack)
-[![Search Tech](https://img.shields.io/badge/Search%20Tech-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/search-tech)
+[![Web Apps](https://img.shields.io/badge/Web%20Apps-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/web-apps)
+[![Applied Algorithms](https://img.shields.io/badge/Applied%20Algorithms-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/applied-algorithms)
 [![ML & AI](https://img.shields.io/badge/ML%20%26%20AI-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/ml-and-ai)
-[![Puzzle Solvers](https://img.shields.io/badge/Puzzle%20Solvers-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/puzzle-solvers)
 [![Systems Programming](https://img.shields.io/badge/Systems%20Programming-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/systems-programming-software)
