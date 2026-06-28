@@ -36,4 +36,4 @@ Let's connect!
 [![Web Apps](https://img.shields.io/badge/Web%20Apps-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/web-apps)
 [![Applied Algorithms](https://img.shields.io/badge/Applied%20Algorithms-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/applied-algorithms)
 [![ML & AI](https://img.shields.io/badge/ML%20%26%20AI-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/ml-and-ai)
-[![Systems Programming](https://img.shields.io/badge/Systems%20Programming-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/systems-programming-software)
+[![Systems Programming](https://img.shields.io/badge/Systems%20Programming-f2c4ce?style=for-the-badge&logo=github&logoColor=black)](https://github.com/stars/ashneetrathore/lists/systems-programming)
