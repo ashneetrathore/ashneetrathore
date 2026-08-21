@@ -16,7 +16,7 @@
 
 ✩ &nbsp;Computer science grad from UC Irvine, with Latin honors\
 ✩ &nbsp;SWE intern @ Kaiser Permanente\
-✩ &nbsp;Puzzler who loves reading detective novels, buying stationary, and creating art
+✩ &nbsp;Puzzler who loves reading detective novels and creating art
 
 Let's connect!
 
